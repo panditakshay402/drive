@@ -1,3 +1,13 @@
+## Requirement:
+
+``` 
+npm install nativewind
+npm install --save-dev tailwindcss@3.3.2
+npm i react-native-safe-area-context
+
+```
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
